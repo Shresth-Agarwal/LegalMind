@@ -1,0 +1,10 @@
+_pycache_/
+*.pyc
+*.pyo
+.env
+venv/
+node_modules/
+dist/
+data/
+indexes/
+evaluation/
