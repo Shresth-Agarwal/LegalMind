@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .routers import router
+from api.routers import router
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from src.retriever import load_indexes
