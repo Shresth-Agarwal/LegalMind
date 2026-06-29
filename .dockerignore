@@ -3,7 +3,7 @@ _pycache_/
 *.pyo
 .env
 venv/
-node_modules/
+frontend/
 dist/
 data/
 evaluation/
